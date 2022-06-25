@@ -1,2 +1,10 @@
-# MySQL
-혼자공부하는SQL 학습내용
+# Abstract
+- 혼자 공부하는 SQL 실습
+
+# Period
+- 2022.01
+
+# Tool to use
+- MySQL
+- Python
+  - pymysql
